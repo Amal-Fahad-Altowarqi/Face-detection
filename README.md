@@ -9,7 +9,7 @@ open CMD and type the command
 # Download haarcascades data:
 
 just go to [openCv github](https://github.com/opencv/opencv/tree/master/data/haarcascades/).  and download the xlm file you need
-for me I choose "haarcascade_frontalface_default.xml"
+or just download the file I included in github named "haarcascade_frontalface_default.xml"
 
 use the python file included and run the code 
 
